@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@flyover/system": "git+https://github.com/flyover/system.ts.git",
+    "http-server": "^14.1.0",
+    "mime-types": "^2.1.34",
+    "node-fetch": "^2.6.0",
+    "node-static": "^0.7.11"
+  }
+}
